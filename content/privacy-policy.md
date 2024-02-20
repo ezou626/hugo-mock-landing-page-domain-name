@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: " We do not use cookies and we do not collect any personal data."
+description: " This website does not use cookies and does not collect any personal data."
 draft: false
 tags: ["Privacy"]
 menu:
@@ -10,7 +10,9 @@ menu:
 
 # Privacy Policy
 
-**TLDR**: We do not use cookies and we do not collect any personal data.
+**TLDR**: This website does not use cookies and does not collect any personal data.
+
+**Note**: The AnyBizAI extension **does** need to collect personal data and use cookies to help give you the smoothest experience possible. However, this data is not shared by default with any third party. Read more about this policy on our Chrome Web Store page.
 
 ## Website visitors
 
@@ -36,6 +38,6 @@ All logs are discarded in every release.
 
 ## Contact us
 
-[Contact us](/hugo-bootstrap-theme/contact/) if you have any questions.
+[Contact us](ezou626@gmail.com) if you have any questions.
 
-Effective Date: *15th May 2022*
+Effective Date: *20th Feburary 2024*
