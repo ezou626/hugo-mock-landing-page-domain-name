@@ -1,19 +1,17 @@
 ---
-title: "Bootstrap 5.2.0 beta"
-description: "It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here!"
-date: 2022-05-13T13:00:44+01:00
+title: "Huge Announcement for Browser Support!"
+description: "Support for all major web browsers!"
+date: 2024-02-20T19:00:44-05:00
 draft: false
-images: ["bootstrap-5-2-0-beta.png"]
+images: []
 categories: ["The Bootstrap Blog"]
 tags: ["Bootstrap"]
-keywords: ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+keywords: ["browser", "firefox", "chrome", "safari", "operagx", "edge"]
+authors: ["Eric Zou"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](bootstrap-5-2-0-beta.png)
-{ .img-fluid }
 
-> It’s the biggest release since v5 itself—**Bootstrap v5.2.0-beta1 is here!** This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.
+> After our inital release on Google Chrome, we realized the demand for our product was greater than ever. That's why we're excited to announce that we are now supporting all major browsers, including Firefox, Safari, OperaGX, and Microsoft Edge! Now you can biz anywhere, anytime.
 
-Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. [Keep reading for details](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/).
+Please let us know about any issues [here](https://github.com/ezou626/hugo-mock-landing-page/issues/new).
