@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Bootstrap Blog on AnyBizAI</title>
+    <link>https://ezou626.github.io/hugo-mock-landing-page/categories/the-bootstrap-blog/</link>
+    <description>Recent content in The Bootstrap Blog on AnyBizAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Eric Zou</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 02:22:21 +0000</lastBuildDate>
+    <atom:link href="https://ezou626.github.io/hugo-mock-landing-page/categories/the-bootstrap-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huge Announcement for Browser Support!</title>
+      <link>https://ezou626.github.io/hugo-mock-landing-page/post/browser_support/</link>
+      <pubDate>Tue, 20 Feb 2024 19:00:44 -0500</pubDate>
+      <guid>https://ezou626.github.io/hugo-mock-landing-page/post/browser_support/</guid>
+      <description>After our inital release on Google Chrome, we realized the demand for our product was greater than ever. That&amp;rsquo;s why we&amp;rsquo;re excited to announce that we are now supporting all major browsers, including Firefox, Safari, OperaGX, and Microsoft Edge! Now you can biz anywhere, anytime.&#xA;Please let us know about any issues here.</description>
+    </item>
+  </channel>
+</rss>
