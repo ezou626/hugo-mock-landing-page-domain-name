@@ -1,7 +1,7 @@
 baseURL = "https://ezou626.github.io/hugo-mock-landing-page/"
 title = "AnyBizAI"
 author = "Eric Zou"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/ezou626/hugo-mock-landing-page/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/ezou626/hugo-mock-landing-page/blob/main/LICENSE\">MIT</a> Licensed. Images generated with DALL-E or taken from Unsplash"
 
 timeZone = "America/New_York"
 
