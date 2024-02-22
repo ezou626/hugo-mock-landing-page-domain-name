@@ -3,8 +3,8 @@
 Based on hugo-bootstrap-theme
 
 ## Branches
-main: source branch
-gh-pages: source for github pages deployment
+* main: source branch
+* gh-pages: source for github pages deployment
 
 ## Structure
 ### Top Level Folders
