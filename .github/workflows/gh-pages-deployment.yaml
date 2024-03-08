@@ -37,5 +37,5 @@ jobs:
           publish_branch: gh-pages
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
-          ## trying again
+          ## trying again (has rw access now)
           cname: anybiznotrealfake.boats
