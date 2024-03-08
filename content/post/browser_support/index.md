@@ -14,4 +14,4 @@ noindex: true
 
 > After our inital release on Google Chrome, we realized the demand for our product was greater than ever. That's why we're excited to announce that we are now supporting all major browsers, including Firefox, Safari, OperaGX, and Microsoft Edge! Now you can biz anywhere, anytime.
 
-Please let us know about any issues [here](https://github.com/ezou626/hugo-mock-landing-page/issues/new).
+Please let us know about any issues [here](https://github.com/ezou626/hugo-mock-landing-page-autodeployed/issues/new).
